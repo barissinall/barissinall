@@ -14,9 +14,14 @@ claude plugin marketplace add barissinall/shader-brand-kit
 claude plugin install shader-brand-kit@barissinall-plugins
 ```
 
+### [Pixel Print Kit](https://github.com/barissinall/pixel-print-kit)
+Pixel art in, a multi-colour 3D print kit out: keychains, magnets, coasters and plaques with per-colour STL, a multi-part 3MF, colour-change heights for single-nozzle printers and photoreal Blender previews.
+
+[![Pixel Print Kit](https://raw.githubusercontent.com/barissinall/pixel-print-kit/main/examples/hero.jpg)](https://github.com/barissinall/pixel-print-kit)
+
 ## Working with
 
-WebGL2 / GLSL · Node.js · Puppeteer · ffmpeg · Blender · React Native / Expo · Claude Code skills & plugins
+WebGL2 / GLSL · Node.js · Python · manifold3d · Puppeteer · ffmpeg · Blender · React Native / Expo · Claude Code skills & plugins
 
 ---
 
